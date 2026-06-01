@@ -14,6 +14,11 @@ educational and defensive security research.
 
 ---
 
+## Architecture 
+
+<img width="641" height="411" alt="SOC Engineering Lab drawio" src="https://github.com/user-attachments/assets/c22a0952-a552-4e7e-8e58-d57a3d51e795" />
+
+
 ## Objectives
 - Design a multi-VM SOC-style detection environment
 - Deploy and integrate Suricata IDS with Wazuh SIEM
