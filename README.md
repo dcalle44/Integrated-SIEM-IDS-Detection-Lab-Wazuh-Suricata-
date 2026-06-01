@@ -53,16 +53,4 @@ educational and defensive security research.
 
 ---
 
-## Architecture Overview
-```text
-Kali Linux VM (Attack Simulation)
-              ↓
-     Victim Ubuntu VM
-     (Suricata IDS + Wazuh Agent)
-              ↓
-      Ubuntu Server SIEM VM
- (Wazuh Manager / Indexer / Dashboard)
-              ↓
-        Alerting & Analysis
-
 
